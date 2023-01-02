@@ -1,0 +1,18 @@
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\bin\Debug\Keres ide 2023.exe.config
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\bin\Debug\Keres ide 2023.exe
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\bin\Debug\Keres ide 2023.pdb
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\bin\Debug\FastColoredTextBox.dll
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.csproj.AssemblyReference.cache
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres_ide_2023.Form1.resources
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres_ide_2023.Properties.Resources.resources
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.csproj.GenerateResource.cache
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.csproj.CoreCompileInputs.cache
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.csproj.CopyComplete
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.exe
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres ide 2023.pdb
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\bin\Debug\AutocompleteMenu.dll
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres_ide_2023.Form2.resources
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres_ide_2023.Form3.resources
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres_ide_2023.Form4.resources
+C:\Users\arsla\Documents\ide\Keres ide 2023\Keres ide 2023\obj\Debug\Keres_ide_2023.Form5.resources
